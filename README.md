@@ -1,5 +1,5 @@
 # ux-tips
-🙌 A collection of low effort ux improvements
+A collection of low effort ux improvements
 
 ## Essetinals
 - [ ] Title - page title and sitename never fails. 
